@@ -304,6 +304,8 @@ Full-Width Styles
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
   background:url('../images/logo2.png') no-repeat;
+  width:211px;
+  height:41px;
 }
 
 #project_tagline {
